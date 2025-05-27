@@ -11,6 +11,8 @@ body{
 :root{
     --cor-de-fundo: #803939;
     --cor-de-texto: #4e0000;
+     --cor-do-cabeçalho: #BBB2AB;
+    --cor-apresentacao: #e0d8d2;
 }
 
 header{
