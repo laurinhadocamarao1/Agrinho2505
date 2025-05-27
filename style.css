@@ -1,0 +1,49 @@
+body{
+ background-color:var(--cor-de-fundo);
+ display:block;
+ margin: 50px;
+ font-family: "Libre Baskerville", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+/* sssssss */
+
+:root{
+    --cor-de-fundo: #803939;
+    --cor-de-texto: #4e0000;
+}
+
+header{
+    display: flex; 
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+
+}
+img{
+    width: 10%;
+}
+.imagem{
+    width: 20%;
+}
+
+.apresentacao{
+
+    display: flex;
+    background-color: #bebebe;
+    border: solid var(--cor-de-texto);
+    border: 0.6px solid var(--cor-de-texto);
+    align-content: flex-start;
+    flex-direction: column;
+    margin: 20px;
+    padding: 20px 0;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+
+}
+.cabecalho{
+    text-decoration-color: rgb(85, 6, 6);
+}
+
