@@ -27,9 +27,10 @@ img{
 }
 
 .titulo{
-    display: flex;
-    justify-content: center;
+   display: flex;
     font-size: 150%;
+    flex-direction: column;
+    align-items: flex-start;
 }
 
 .imagem{
