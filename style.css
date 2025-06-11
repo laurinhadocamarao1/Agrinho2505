@@ -27,8 +27,7 @@ img{
 }
 
 .titulo{
-    display: flex
-;
+    display: flex;
     font-size: 150%;
     flex-direction: column;
     align-items: flex-start;
